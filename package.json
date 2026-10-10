@@ -2,6 +2,8 @@
   "name": "cloud-devops-backend",
   "version": "0.1.0",
   "description": "Cloud-ready Task Management REST API — internship engineering project",
+  "author": "Mansoor Gabali <https://github.com/mnsdew>",
+  "license": "Apache-2.0",
   "private": true,
   "engines": {
     "node": ">=20.0.0"

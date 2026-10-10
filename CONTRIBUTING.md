@@ -1,6 +1,10 @@
 # Contributing
 
-This repository is an internship engineering project. Prefer small, reviewable changes with verified results.
+This repository is an internship engineering project by **Mansoor Gabali**
+(Student No. `220513701`, GitHub: [mnsdew](https://github.com/mnsdew)).
+It is licensed under Apache-2.0 — see `LICENSE` and `NOTICE`.
+
+Prefer small, reviewable changes with verified results.
 
 ## Workflow
 

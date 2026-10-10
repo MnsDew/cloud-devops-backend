@@ -2,6 +2,8 @@
 
 Task Management REST API built as an internship engineering project focused on professional backend practices and a staged path to Oracle Cloud Infrastructure (OCI).
 
+**Author:** Mansoor Gabali · Student No. `220513701` · GitHub: [mnsdew](https://github.com/mnsdew)
+
 **Stack:** Node.js 20 LTS · TypeScript (strict) · Express · PostgreSQL · Prisma · Zod · Pino · Vitest · Docker · GitHub Actions · Nginx (deployment) · OCI (target)
 
 ## Features
@@ -68,4 +70,11 @@ docker compose up --build
 
 ## License
 
-This internship repository has no license selected yet. Add a `LICENSE` file only after you choose one intentionally.
+Copyright 2026 Mansoor Gabali (Student No. 220513701, GitHub: [mnsdew](https://github.com/mnsdew)).
+
+Licensed under the [Apache License, Version 2.0](LICENSE).
+
+You may use, copy, modify, and share this project freely under Apache-2.0.
+If you use or redistribute it (including modified versions), you must keep the
+copyright/attribution notices and the `NOTICE` file, and include a copy of the license.
+See [NOTICE](NOTICE) for author credit details.
